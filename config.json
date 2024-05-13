@@ -1,0 +1,15 @@
+{
+  "image folder": "C:\\Users\\Lenovo\\Desktop\\project\\image\\fp_image",
+  "save log to": "C:\\Users\\Lenovo\\Desktop\\project\\image\\fp_heat",
+  "save pic to":"C:\\Users\\Lenovo\\Desktop\\project\\image\\fp_heat",
+  "random display order": false,
+  "image height": 800,
+  "loading wait": 6,
+  "font": "Helvetica",
+  "dark mode": true,
+  "insta review": false,
+  "guide mode": false,
+  "save gaze":false,
+  "save heat":true,
+  "display gaze": false
+}
