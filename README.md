@@ -1,7 +1,8 @@
 # MicEye-v2.0
 
-![](./img/gaze-diagnosis.png)
-
+<p align="center">
+  <img src="./img/gaze-diagnosis.png" width=700px/>
+</p>
 Our software is updated with [MicEye](https://github.com/JamesQFreeman/MicEye).
 We add the function of zooming and dragging image. We also support more free and flexible image post-processing and saving.
 
