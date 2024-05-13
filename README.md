@@ -24,7 +24,7 @@ Start your research using less than 200 bucks! Comparing to other existing softw
 ### Easier
 Here we domonstrate some use cases, you can use it on the go with a laptop or use it on your desk monitor. It should be handful if you want to take it with you to collect data. Credit to Tobii's consumer product lineup, they did pack some really sick hardware in a small form factor.
 
-![](docs/docs/img/laptop_desktop.png)
+![](./img/laptop_desktop.png)
 
 And the code is easy to modify since it is PyQt.
 
