@@ -55,4 +55,4 @@ python MicEye.py
 
 ## Contact me
 
-Github issue or wsheng@sjtu.edu.cn
+Github issue or wsheng@sjtu.edu.cn/kongyan@shanghaitech.edu.cn
