@@ -33,13 +33,13 @@ Linus Torvalds said he built Linux "just for fun". Hopefully, if you find this e
 
 ## Get Started
 ``` sh
-@article{wang2022follow,
-  title={Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis},
-  author={Wang, Sheng and Ouyang, Xi and Liu, Tianming and Wang, Qian and Shen, Dinggang},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2022},
-  publisher={IEEE}
-}
+set CONDA_SUBDIR=win-32 
+conda create -n miceye python=3.7
+conda activate miceye
+git clone https://github.com/JamesQFreeman/MICEYE.git
+pip install python-opencv PyQt5 numpy pillow
+cd MICEYE
+python MicEye.py
 ```
 ## Citation
 
