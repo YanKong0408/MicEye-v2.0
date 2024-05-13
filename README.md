@@ -31,13 +31,16 @@ And the code is easy to modify since it is PyQt.
 
 Linus Torvalds said he built Linux "just for fun". Hopefully, if you find this eye tracking things fun, MicEye could help you start something big.
 
-## A demo
-We domonstrate an example of radiologist reading knee X-Ray images. Of cause, you could use it in natural image. 
-
-![demo](docs/docs/img/demo.gif)
-
-This red bubble is for demonstration, do not exist in real software. 
-
+## Get Started
+``` sh
+@article{wang2022follow,
+  title={Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis},
+  author={Wang, Sheng and Ouyang, Xi and Liu, Tianming and Wang, Qian and Shen, Dinggang},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2022},
+  publisher={IEEE}
+}
+```
 ## Citation
 
 ```
