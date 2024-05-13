@@ -1,5 +1,7 @@
 # MicEye-v2.0
 
+![](docs/docs/img/gaze_.png)
+
 Our software is updated with [MicEye](https://github.com/JamesQFreeman/MicEye).
 We add the function of zooming and dragging image. We also support more free and flexible image post-processing and saving.
 
