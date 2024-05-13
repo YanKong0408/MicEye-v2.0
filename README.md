@@ -1,24 +1,8 @@
-# 
-<p align="center">
-  <img src="docs/docs/img/overview.png" width=700px/>
-  <br/>
-  <img src="https://img.shields.io/badge/Version-2.1.0--alpha-brightgreen">
-  <a href="https://jamesqfreeman.github.io/MicEye/">
-      <img src="https://img.shields.io/badge/Doc-v2.1-yellowgreen">
-  </a>
-</p>
+# MicEye-v2.0
 
-<!-- **M**edical **I**mage **C**omputing lab's **Eye**-tracker, or **MicEye**,  -->
-<p align="center">
-    Record radiologists' eye gaze when they are labeling images.
-</p>
+Our software is updated with [MicEye](https://github.com/JamesQFreeman/MicEye).
+We add the function of zooming and dragging image. We also support more free and flexible image post-processing and saving.
 
-<!-- to label data and record eye gaze during 2D medical image viewing.  -->
-
-
-Read  <a href="https://jamesqfreeman.github.io/MicEye/">
-      <img src="https://img.shields.io/badge/Doc-v2.1-yellowgreen">
-  </a>  for installation, usage, and deep learning examples.
 ## Why use MicEye
 
 ### Versatile
@@ -27,8 +11,8 @@ As a label tool, we support
 1. class label (keyboard typing)
 2. bounding boxes (mouse draw)
 3. keypoint label (use eye gaze)
+4. zoom and drag image (mouse rool and drag)
    
-
 During aforemention annotation process, all eye movement will be recorded.
 
 ### Cheaper
