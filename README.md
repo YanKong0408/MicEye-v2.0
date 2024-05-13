@@ -25,10 +25,6 @@ Here we domonstrate some use cases, you can use it on the go with a laptop or us
 
 And the code is easy to modify since it is PyQt.
 
-### You can try it for fun!
-I understand there are some better eye tracking software out there. However, they are too expensive and hard to use for someone who are trying for fun. And I do believe trying for fun is great, that's why I spent time to organize the code, add comments and docs even I know more thorough literature can be found. 
-
-At beginning it was not a very serious idea during the pandemic lockdown to combine eye-tracking and medical image analysis (which is my PhD project). After some google search, I found the Tobii Eye-tracker are surprisingly affordable, so I bought it with my own money (my prof paid it soon after). There're no easy-to-use API so at the beginning I record the screen with a red bubble and post-process the video. And we started with the showing [cat/dog](deep_learning_example1.md) using PPT so every one in the lab are interesting to take part in. Then I wrap the c++ sdk in python and start to writing the program which become the MicEye now.
 
 Linus Torvalds said he built Linux "just for fun". Hopefully, if you find this eye tracking things fun, MicEye could help you start something big.
 
@@ -38,11 +34,6 @@ We domonstrate an example of radiologist reading knee X-Ray images. Of cause, yo
 ![demo](docs/docs/img/demo.gif)
 
 This red bubble is for demonstration, do not exist in real software. 
-
-## In the future
-
-- There will be a 3D version.
-- There will be a version that support zoom and drag (coming very soon).
 
 ## Citation
 
