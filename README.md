@@ -29,7 +29,9 @@ Here we domonstrate some use cases, you can use it on the go with a laptop or us
 And the code is easy to modify since it is PyQt.
 
 A demo is shown as below:
-![](./img/demo.gif)
+
+![demo](./img/demo.gif)
+
 This red bubble is for demonstration, do not exist in real software.
 
 Linus Torvalds said he built Linux "just for fun". Hopefully, if you find this eye tracking things fun, MicEye could help you start something big.
