@@ -31,7 +31,7 @@ And the code is easy to modify since it is PyQt.
 A demo is shown as below:
 
 <p align="center">
-  <img src="./img/demo.gif" width=500px/>
+  <img src="./img/demo.gif" width=800px/>
 </p>
 
 This red bubble is for demonstration, do not exist in real software.
