@@ -44,7 +44,7 @@ set CONDA_SUBDIR=win-32
 conda create -n miceye python=3.7
 conda activate miceye
 git clone https://github.com/YanKong0408/MicEye-v2.0
-pip install python-opencv PyQt5 numpy pillow
+pip install opencv-python qdarkstyle PyQt5 numpy pillow
 cd MICEYE
 python MicEye.py
 ```
